@@ -1,0 +1,7 @@
+Customer: Alastair
+Quantity: 3
+Unit price: 49.5
+Member: true
+Total: 148.5
+Change from 200: 51.5
+Is the total over 100? true
